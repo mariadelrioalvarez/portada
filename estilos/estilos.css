@@ -9,3 +9,10 @@ p {
   h2 {
     font-family: "Times New Roman", Times, serif;
   }
+
+  .accordionheader{
+    --bs-accordion-bg: #f7cae0;
+    --bs-accordion-active-bg: #444;
+  }
+  
+
